@@ -3,7 +3,7 @@ Todo List Api
 
 ## Install required packages:
 ```bash
-npm install express sequelize body-parser nodemon .dotenv
+npm install
 ```
 ###Create .env file
 ###.env Configurations:
